@@ -1,12 +1,12 @@
 // Organized Chaos — businessConfig
-// Images refreshed: 2026-06-10 02:05
+// Images refreshed: 2026-06-10 02:07
 
 export const businessConfig = {
   "name": "Organized Chaos",
   "namePart1": "Organized",
   "namePart2": "Chaos",
   "tagline": "Transform Your Space",
-  "category": "cleaning",
+  "category": "home_services",
   "city": "San Diego",
   "primaryColor": "#3D2B1F",
   "secondaryColor": "#C9A882",
@@ -34,7 +34,7 @@ export const businessConfig = {
   "headlineBold": "Organized with Care",
   "heroKeyword": "CLUTTER FREE",
   "heroImage": "/hero-generated.jpg",
-  "aboutImage": "https://images.pexels.com/photos/6920452/pexels-photo-6920452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "aboutImage": "https://images.pexels.com/photos/8089071/pexels-photo-8089071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "heroSubtext": "Expert home organizing services.",
   "ctaBannerHeadline": "Get Organized Today",
   "ctaBannerSubtext": "Book your appointment now and start enjoying a clutter-free life.",
@@ -288,69 +288,69 @@ export const businessConfig = {
   ],
   "gallery": [
     {
-      "src": "https://images.pexels.com/photos/4154986/pexels-photo-4154986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7546721/pexels-photo-7546721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "luxury apartment after clean"
     },
     {
-      "src": "https://images.pexels.com/photos/7587291/pexels-photo-7587291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7407947/pexels-photo-7407947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "premium lounge clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/8135115/pexels-photo-8135115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6782432/pexels-photo-6782432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "office clean Manchester"
     },
     {
-      "src": "https://images.pexels.com/photos/6956625/pexels-photo-6956625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/133919/pexels-photo-133919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Interior",
       "alt": "kitchen deep clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/8089072/pexels-photo-8089072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/36777892/pexels-photo-36777892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "bedroom clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/8082315/pexels-photo-8082315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/23471276/pexels-photo-23471276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "commercial space clean"
     },
     {
-      "src": "https://images.pexels.com/photos/7533924/pexels-photo-7533924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7167073/pexels-photo-7167073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Interior",
       "alt": "bathroom clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7147292/pexels-photo-7147292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6782281/pexels-photo-6782281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "living room clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7018379/pexels-photo-7018379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6721079/pexels-photo-6721079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "hallway clean result"
     }
   ],
   "videoUrl": "",
   "marqueeImages": [
-    "https://images.pexels.com/photos/4154986/pexels-photo-4154986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7587291/pexels-photo-7587291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/8135115/pexels-photo-8135115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/6956625/pexels-photo-6956625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/8089072/pexels-photo-8089072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/8082315/pexels-photo-8082315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7533924/pexels-photo-7533924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7147292/pexels-photo-7147292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7018379/pexels-photo-7018379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7546721/pexels-photo-7546721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7407947/pexels-photo-7407947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6782432/pexels-photo-6782432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/133919/pexels-photo-133919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/36777892/pexels-photo-36777892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/23471276/pexels-photo-23471276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7167073/pexels-photo-7167073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6782281/pexels-photo-6782281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6721079/pexels-photo-6721079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "/service-1-generated.jpg",
     "/service-2-generated.jpg",
     "/service-3-generated.jpg",
     "/service-4-generated.jpg",
     "/service-5-generated.jpg",
     "/service-6-generated.jpg",
-    "https://images.pexels.com/photos/4154986/pexels-photo-4154986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/7546721/pexels-photo-7546721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "beforeAfter": [
     {
@@ -358,48 +358,48 @@ export const businessConfig = {
       "category": "Residential",
       "title": "Move-Out Clean",
       "description": "City centre apartment, San Diego",
-      "before": "https://images.pexels.com/photos/7303916/pexels-photo-7303916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/6920452/pexels-photo-6920452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/938045/pexels-photo-938045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/8089071/pexels-photo-8089071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 2,
       "category": "Residential",
       "title": "Deep Clean",
       "description": "Luxury high-rise, San Diego",
-      "before": "https://images.pexels.com/photos/8082333/pexels-photo-8082333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/4154986/pexels-photo-4154986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/4545979/pexels-photo-4545979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7546721/pexels-photo-7546721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 3,
       "category": "Commercial",
       "title": "Office Clean",
       "description": "Commercial space, San Diego",
-      "before": "https://images.pexels.com/photos/6899351/pexels-photo-6899351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7587291/pexels-photo-7587291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/3794169/pexels-photo-3794169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7407947/pexels-photo-7407947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 4,
       "category": "Residential",
       "title": "End of Tenancy",
       "description": "Apartment complex, San Diego",
-      "before": "https://images.pexels.com/photos/7214163/pexels-photo-7214163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/8135115/pexels-photo-8135115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/4046082/pexels-photo-4046082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/6782432/pexels-photo-6782432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 5,
       "category": "Interior",
       "title": "Kitchen Restoration",
       "description": "City centre flat, San Diego",
-      "before": "https://images.pexels.com/photos/6296924/pexels-photo-6296924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/6956625/pexels-photo-6956625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/7703664/pexels-photo-7703664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/133919/pexels-photo-133919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 6,
       "category": "Residential",
       "title": "Post-Renovation",
       "description": "New build, San Diego",
-      "before": "https://images.pexels.com/photos/8089259/pexels-photo-8089259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/8089072/pexels-photo-8089072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/3795267/pexels-photo-3795267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/36777892/pexels-photo-36777892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "projects": [
@@ -407,25 +407,25 @@ export const businessConfig = {
       "category": "Residential",
       "title": "La Jolla Home Organization",
       "location": "La Jolla, San Diego",
-      "img": "https://images.pexels.com/photos/4154986/pexels-photo-4154986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/7546721/pexels-photo-7546721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Commercial",
       "title": "Downtown Office Clean",
       "location": "Downtown, San Diego",
-      "img": "https://images.pexels.com/photos/8135115/pexels-photo-8135115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/6782432/pexels-photo-6782432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Residential",
       "title": "North Park Home Declutter",
       "location": "North Park, San Diego",
-      "img": "https://images.pexels.com/photos/7587291/pexels-photo-7587291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/7407947/pexels-photo-7407947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Interior",
       "title": "Little Italy Kitchen Design",
       "location": "Little Italy, San Diego",
-      "img": "https://images.pexels.com/photos/6956625/pexels-photo-6956625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/133919/pexels-photo-133919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "testimonials": [
